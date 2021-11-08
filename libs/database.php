@@ -3,10 +3,10 @@
  * Manejo de la base de datos MySQL
  */
 class database{
-  private $host = "s465z7sj4pwhp7fn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306";
-  private $usuario = "t6ifn1fr49l3ewz5";
-  private $clave = "zkkjzyuellc5jj1r"; 
-  private $db = "surfm828igg54h37";
+  private $host = "s29oj5odr85rij2o.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306";
+  private $usuario = "q9vh6j8p8io9a4zh";
+  private $clave = "wyenr93q78pl7xiy"; 
+  private $db = "ph5wkv5bgswv74qt";
   private $puerto = "";
   private $conn;
   
