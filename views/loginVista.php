@@ -14,7 +14,7 @@
     <div class="form-group text-left">
       <label for="clave">Clave acceso:</label>
       <input type="password" maxlength="8" name="clave" class="form-control"
-      placeholder="Escribe tu clave de acceso (sin espacios en blanco)"
+      placeholder="Escribe tu clave de acceso (sin espacios en blanco, maximo 8 caracteres)"
       value="<?php 
       print isset($datos['data']['clave'])?$datos['data']['clave']:''; 
       ?>"
