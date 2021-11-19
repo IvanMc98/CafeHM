@@ -1,1 +1,1 @@
-cosnole.log('Prueba');
+console.log('Prueba');
